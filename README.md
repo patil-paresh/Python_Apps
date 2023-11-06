@@ -3,7 +3,7 @@ Simple Python GUIs
 
 1. _Calculator_ <br />
  ![calculator](https://github.com/patil-paresh/Python_Apps/assets/130557013/1e9af716-0db9-42ec-81f7-db2100678f5e)
-2. _Conveter_ <br />
+2. _Converter_ <br />
 ![converter](https://github.com/patil-paresh/Python_Apps/assets/130557013/0c25b960-fc78-43bf-b0b0-3d32f8e81ef9)
 3. _Graph_ <br />
 ![graph](https://github.com/patil-paresh/Python_Apps/assets/130557013/f7722436-786d-4630-82d8-467e67f27f88)
