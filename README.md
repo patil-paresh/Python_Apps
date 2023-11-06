@@ -15,5 +15,5 @@ Simple Python GUIs
 ![snake](https://github.com/patil-paresh/Python_Apps/assets/130557013/ae1bbee8-64c7-4686-af7d-8e16e8a7845a)
 7. _Stopwatch_ <br />
 ![stopwatch](https://github.com/patil-paresh/Python_Apps/assets/130557013/da434b61-2467-4071-8c3f-7cea2c077b91)
-8. _Weather_
+8. _Weather_ <br />
 ![weather](https://github.com/patil-paresh/Python_Apps/assets/130557013/dfeb5241-db7c-417b-83f0-d513d6ffab59)
